@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+           Spell.AI
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
